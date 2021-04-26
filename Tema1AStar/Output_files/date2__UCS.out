@@ -1,0 +1,120 @@
+
+
+
+
+Solutia 1
+
+Timp de executie = 300 ms
+Nr total de noduri calculate =3172
+Lungimea drumului = 4
+
+
+Sparg zidul de pe pozitia 0 0
+costul acestei mutari =0
+cost total = 0
+nr ordine =0
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', '#', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'o', 'o', '#', 'o', 'o', 'o']
+['#', '#', 'o', 'o', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'o']
+['o', '#', '#', '#', 'o', '#', '#', 'o', 'o']
+
+Sparg zidul de pe pozitia 1 3
+costul acestei mutari =4
+cost total = 4
+nr ordine =2
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', 'i', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'i', 'i', '#', 'o', 'o', 'o']
+['#', '#', 'i', 'i', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'o']
+['o', '#', '#', '#', 'o', '#', '#', 'o', 'o']
+
+Sparg zidul de pe pozitia 3 4
+costul acestei mutari =4
+cost total = 8
+nr ordine =27
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', 'i', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'i', 'i', '#', 'o', 'o', 'o']
+['#', '#', 'i', 'i', 'i', 'i', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'i', '#', '#', 'o']
+['o', '#', '#', '#', 'o', '#', '#', 'o', 'o']
+
+Sparg zidul de pe pozitia 4 4
+costul acestei mutari =4
+cost total = 12
+nr ordine =257
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', 'i', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'i', 'i', '#', 'o', 'o', 'o']
+['#', '#', 'i', 'i', 'i', 'i', '#', 'o', '#']
+['o', 'o', '#', '#', 'i', 'i', '#', '#', 'o']
+['o', '#', '#', '#', 'i', '#', '#', 'o', 'o']
+
+
+
+
+
+
+Solutia 2
+
+Timp de executie = 301 ms
+Nr total de noduri calculate =3185
+Lungimea drumului = 4
+
+
+Sparg zidul de pe pozitia 0 0
+costul acestei mutari =0
+cost total = 0
+nr ordine =0
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', '#', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'o', 'o', '#', 'o', 'o', 'o']
+['#', '#', 'o', 'o', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'o']
+['o', '#', '#', '#', 'o', '#', '#', 'o', 'o']
+
+Sparg zidul de pe pozitia 1 3
+costul acestei mutari =4
+cost total = 4
+nr ordine =2
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', 'i', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'i', 'i', '#', 'o', 'o', 'o']
+['#', '#', 'i', 'i', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'o']
+['o', '#', '#', '#', 'o', '#', '#', 'o', 'o']
+
+Sparg zidul de pe pozitia 3 4
+costul acestei mutari =4
+cost total = 8
+nr ordine =27
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', 'i', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'i', 'i', '#', 'o', 'o', 'o']
+['#', '#', 'i', 'i', 'i', 'i', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'i', '#', '#', 'o']
+['o', '#', '#', '#', 'o', '#', '#', 'o', 'o']
+
+Sparg zidul de pe pozitia 5 5
+costul acestei mutari =4
+cost total = 12
+nr ordine =259
+['i', 'i', 'i', 'i', '#', 'o', 'o', 'o', '#']
+['#', '#', 'i', 'i', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'i', 'i', '#', 'o', 'o', 'o']
+['#', '#', 'i', 'i', 'i', 'i', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'i', '#', '#', 'o']
+['o', '#', '#', '#', 'i', 'i', '#', 'o', 'o']
+
+
+
+
+
+
+ ______________________________________________________ 
+
+
+

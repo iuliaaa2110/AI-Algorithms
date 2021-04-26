@@ -1,0 +1,120 @@
+
+
+
+banala
+
+Timp de executie = 0 ms
+Nr total de noduri calculate =0
+Lungimea drumului = 1
+
+
+Sparg zidul de pe pozitia 5 7
+costul acestei mutari =0
+cost total = 0
+nr ordine =0
+['o', 'o', 'o', 'o', '#', 'o', 'o', 'o', '#']
+['#', '#', 'o', '#', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'o', 'o', '#', 'o', 'o', 'o']
+['#', '#', 'o', 'o', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'i']
+['o', '#', '#', '#', 'o', '#', '#', 'i', 'i']
+
+
+
+
+
+
+ ______________________________________________________ 
+
+
+
+
+
+
+admisibila1
+
+Timp de executie = 0 ms
+Nr total de noduri calculate =0
+Lungimea drumului = 1
+
+
+Sparg zidul de pe pozitia 5 7
+costul acestei mutari =0
+cost total = 0
+nr ordine =0
+['o', 'o', 'o', 'o', '#', 'o', 'o', 'o', '#']
+['#', '#', 'o', '#', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'o', 'o', '#', 'o', 'o', 'o']
+['#', '#', 'o', 'o', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'i']
+['o', '#', '#', '#', 'o', '#', '#', 'i', 'i']
+
+
+
+
+
+
+ ______________________________________________________ 
+
+
+
+
+
+
+admisibila2
+
+Timp de executie = 0 ms
+Nr total de noduri calculate =0
+Lungimea drumului = 1
+
+
+Sparg zidul de pe pozitia 5 7
+costul acestei mutari =0
+cost total = 0
+nr ordine =0
+['o', 'o', 'o', 'o', '#', 'o', 'o', 'o', '#']
+['#', '#', 'o', '#', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'o', 'o', '#', 'o', 'o', 'o']
+['#', '#', 'o', 'o', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'i']
+['o', '#', '#', '#', 'o', '#', '#', 'i', 'i']
+
+
+
+
+
+
+ ______________________________________________________ 
+
+
+
+
+
+
+neadmisibila
+
+Timp de executie = 1 ms
+Nr total de noduri calculate =0
+Lungimea drumului = 1
+
+
+Sparg zidul de pe pozitia 5 7
+costul acestei mutari =0
+cost total = 0
+nr ordine =0
+['o', 'o', 'o', 'o', '#', 'o', 'o', 'o', '#']
+['#', '#', 'o', '#', '#', '#', '#', '#', 'o']
+['o', '#', '#', 'o', 'o', '#', 'o', 'o', 'o']
+['#', '#', 'o', 'o', '#', 'o', '#', 'o', '#']
+['o', 'o', '#', '#', '#', 'o', '#', '#', 'i']
+['o', '#', '#', '#', 'o', '#', '#', 'i', 'i']
+
+
+
+
+
+
+ ______________________________________________________ 
+
+
+
