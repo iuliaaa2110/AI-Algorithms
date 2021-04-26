@@ -3,6 +3,7 @@
 
 
 
+
 Problema Inundație
 
 Considerăm o hartă dreptunghiulară cu M linii și N coloane. În hartă avem două tipuri de simboluri:
