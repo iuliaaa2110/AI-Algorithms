@@ -2,8 +2,9 @@
  UCS, AStar and IDAStar implementation for the Inundation Problem
 
 
+
 Problema Inundație
-Context.
+
 Considerăm o hartă dreptunghiulară cu M linii și N coloane. În hartă avem două tipuri de simboluri:
 
 simbolul hash # - semnifică un obstacol
@@ -55,6 +56,7 @@ o##ii#ooo
 oo###o##o
 o###o##oo
 ...
+
 
 
 
